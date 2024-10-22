@@ -15,6 +15,7 @@ Imagine AtliQ Media gearing up for a special telecast on the 2024 Lok Sabha elec
 Objective: Analyze Lok Sabha Elections data from 2014 and 2019.
 Tools Used: Power BI, Power Query.
 Additional Data Sources: Gathered from the Ministry of Statistics and Programme Implementation (MOSPI) and RBI.
+
 📈 Approach
 
 Understanding the Questions: Delved into 'primary_and_secondary_questions.pdf' to frame the analysis.
@@ -28,6 +29,7 @@ Crafted an engaging video presentation with a focus on clarity and precision.
 Outcome:
 Derived actionable insights and recommendations.
 Demonstrated capability in handling extensive datasets and presenting findings effectively.
+
 🧠 Key Learnings
 
 Advanced data cleaning and organization techniques in Excel.
@@ -35,10 +37,12 @@ Leveraging additional data sources to enrich analysis.
 Creating interactive visualizations for deeper insights.
 Enhancing storytelling skills through data presentation.
 Deriving actionable insights for decision-making.
+
 🔗 Additional Resources
 
 Ministry of Statistics and Programme Implementation (MOSPI)
 RBI
+
 🔑 Conclusion
 
 This project not only showcases technical skills in data analysis but also emphasizes the ability to communicate data-driven stories effectively. It stands as a testament to meticulous analysis and storytelling in the realm of elections data.
